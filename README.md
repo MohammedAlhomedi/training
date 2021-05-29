@@ -1,1 +1,2 @@
-# training
+# Training
+REVIEW WHAT I HAD LEARINED IN CLASS
